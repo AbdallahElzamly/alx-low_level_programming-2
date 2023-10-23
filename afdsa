@@ -1,0 +1,1448 @@
+[33mcommit c43930cc6817c3f37bdf3eb55fb696834a80ed04[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 16:01:21 2023 -0700
+
+    adding space complexity of a given function
+
+[33mcommit 5ddb445c47e58aaeec725019ac99270663fdfb07[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:57:49 2023 -0700
+
+    adding space complexity of binary search in an array
+
+[33mcommit e706e6a8b50abbf01b4e3ccf6866555c347ec190[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:53:51 2023 -0700
+
+    adding time complexity of a binary search in an array
+
+[33mcommit 414eb659f2cd18d83e793c92967fee870eecaec6[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:52:01 2023 -0700
+
+    adding space complexity of linear search algorithm
+
+[33mcommit 74398e956b64b861c43d94eb7e96ba59ac7dd1a7[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:48:10 2023 -0700
+
+    adding time complexity of a jump search in a skip list
+
+[33mcommit 44094be5f4e46e296909579acbbc2c560a702b2e[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:44:59 2023 -0700
+
+    adding time complexity of jump search in a linked list
+
+[33mcommit 74182a1f65413d64e977d8babd9ba6865d22a4fb[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:39:18 2023 -0700
+
+    adding a function that searches for a value in a sorted skip list of integers
+
+[33mcommit fe70f14e2cc923697e2c6f6b501a6992fdd8ae9f[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:24:17 2023 -0700
+
+    adding the Jump search algorithm.
+
+[33mcommit 6039dbb164ca5999932a7b2f7b18f96561ad3eef[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 15:10:52 2023 -0700
+
+    adding advanced binary search
+
+[33mcommit d70d4f86699d9fb125aead2ff9d9dd6424163707[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 14:59:29 2023 -0700
+
+    adding Exponential search algorithm
+
+[33mcommit bebb1f4863d9677314c84b09fbb8a08179122c05[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Thu Apr 13 14:52:52 2023 -0700
+
+    adding time complexity of a linear search
+
+[33mcommit 5a941286a2f45290dc29cc9f7755f97294280873[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 14:40:39 2023 -0700
+
+    adding a function that searches for a value in a sorted array of integers using the Interpolation search algorithm.
+
+[33mcommit 2228761549b3cdea8e19a8f8711e27d5e6acc9e1[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 14:26:35 2023 -0700
+
+    adding a function that searches for a value in a sorted array of integers using the Interpolation search algorithm.
+
+[33mcommit 538cc754b913211eaa6d6eb2e7cf9b07cb018066[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 14:11:26 2023 -0700
+
+    adding time complexity of jump search
+
+[33mcommit 0c703098d5cfdc9af37ecfbeff859a169c77aa7f[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 14:07:59 2023 -0700
+
+    adding a function that searches for a value in a sorted array of integers using the Jump search algorithm.
+
+[33mcommit 702f554a6e9a4a0803f91caa0520ef37573e364d[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 13:50:45 2023 -0700
+
+    adding a function that searches for a value in a sorted array of integers using the Binary search algorithm.
+
+[33mcommit 3531aaa1b61b089e0250e9ce528ccda25af3ed9e[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 13:38:36 2023 -0700
+
+    adding a function that searches for a value in an array of integers using the Linear search algorithm.
+
+[33mcommit 57490b4d8873f3713bb36fe17d14cc4fae2945a4[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 13:31:15 2023 -0700
+
+    adding a function that searches for a value in an array of integers using the Linear search algorithm
+
+[33mcommit 0e0c6f6aed4876ad0290aaee98821d642fd88a65[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Wed Apr 12 22:20:17 2023 +0200
+
+    Delete search_algos.h.gch
+
+[33mcommit 2955441fdeec19ff69fc063571a9fa9f0a292aff[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 13:17:28 2023 -0700
+
+    adding header file with prototypes
+
+[33mcommit 73729be9fcb478d98b97fe14bb32f602dd40ef98[m
+Author: LeboMeje <lebomeje@icloud.com>
+Date:   Wed Apr 12 12:54:21 2023 -0700
+
+    README.md
+
+[33mcommit 154b9f58ce2d5c204e5f732348b95e252d72d17c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Feb 24 01:37:28 2023 -0800
+
+    adding Makefile that creates school executable using variables
+
+[33mcommit 8b6c3d4f3b397c68f7b273affb24e4bb0e401a49[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 12:23:46 2023 -0800
+
+    adding a function that returns the perimeter of the island described in grid: a list of integers.
+
+[33mcommit 70d7474ce1947a20393a8b7bc7a7a8f1c83b9e05[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 12:16:24 2023 -0800
+
+    adding a function that returns the perimeter of the island described in grid: a list of integers
+
+[33mcommit 723fd509bc9dbcf61a50bcac7faa92e9a3219c09[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 12:08:19 2023 -0800
+
+    adding Makefile that creates school executable and cleans temporary files
+
+[33mcommit b95594a56d86af216cd4297557a26ffc65197981[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 11:53:45 2023 -0800
+
+    adding Makefile that makes school executable
+
+[33mcommit 7e6e0d1db1e2bd8490c0c8309f88e37882c9a5ed[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 11:41:28 2023 -0800
+
+    adding Makefile that creates school executable using variables
+
+[33mcommit 4318e8f33e44d8b2d665a299c314e794a9021283[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 11:31:27 2023 -0800
+
+    adding a Makefile that creates school executable with vars
+
+[33mcommit b4cec71974b21328daeecd2dcdce901a44d76080[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 11:18:54 2023 -0800
+
+    adding Makefile that creates school executable
+
+[33mcommit bb37e3051e3d5df4e00d61749b657ab505cb39e8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Feb 23 10:58:40 2023 -0800
+
+    README.md file
+
+[33mcommit 384244b4795075df300d5a1e8e92410d5945fac6[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 12:00:19 2023 +0200
+
+    Update README.md
+
+[33mcommit 03c38c462c3891db6c5d84419fc7d2ac080a5a3b[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:58:39 2023 +0200
+
+    Update README.md
+
+[33mcommit d5a855cc96cf3a0843ccc324e5c3c69e8a01e9b3[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:53:56 2023 +0200
+
+    Update README.md
+
+[33mcommit b8b2613b3048d14e5943ce12e40fe1a2a99c8324[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:49:29 2023 +0200
+
+    Update README.md
+
+[33mcommit 74e46f98009a9a35d9c2ef7093c51e3b4b1ba1b4[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:48:57 2023 +0200
+
+    Update README.md
+
+[33mcommit 62d54489f0aeaeeabad946a3165a40d8149e39d6[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:46:11 2023 +0200
+
+    Update README.md
+
+[33mcommit 6c7c4cfeda6dd67321c06a8888f4828bf8077b25[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:42:41 2023 +0200
+
+    Update README.md
+
+[33mcommit e89e50fca650220fac0cb20c6cfcef68d5849456[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:39:58 2023 +0200
+
+    Update README.md
+
+[33mcommit 006fe8f82a8452afe14d5e474f6dcc245a2cd11f[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:35:56 2023 +0200
+
+    Update README.md
+
+[33mcommit 384072e237f9c0104ff432d5a8d62af91c83f638[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:32:43 2023 +0200
+
+    Update README.md
+
+[33mcommit 3b947ad5696124e4ddcb66d15b55c87ad42239c2[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:31:53 2023 +0200
+
+    Update README.md
+
+[33mcommit 8bf25bec18501b48762981b0fa8c49508bb336b8[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:30:57 2023 +0200
+
+    Update README.md
+
+[33mcommit 1803c62c6cc3d878491f0e1814c0c0ed405201d8[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:18:57 2023 +0200
+
+    Update README.md
+
+[33mcommit 8bd9aa9e986324004cddd008ffbe5e61b5c4b207[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:13:58 2023 +0200
+
+    Update README.md
+
+[33mcommit f35cdf852b9054e46058c0847274516a07c82102[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:13:11 2023 +0200
+
+    Update README.md
+
+[33mcommit 2f0c377c570eb291805d94b8f299962a42a0cc90[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:10:49 2023 +0200
+
+    Update README.md
+
+[33mcommit 2098bd8a8554a512972f659e34185e73b7674903[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:06:12 2023 +0200
+
+    Update README.md
+
+[33mcommit bfec2f6fa3df0a1f8d4ea93ddc0ce2ba68cbad7e[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Jan 9 11:05:21 2023 +0200
+
+    Update README.md
+
+[33mcommit f7290f684fa71aa57c3f94ae3bdcd05ba7f36b01[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 08:10:57 2023 -0800
+
+    adding a functions that implements a hash table with a sorted linked list
+
+[33mcommit 5be70d86c524d7bcb87ec2fa79986986bf946ecd[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 08:04:59 2023 -0800
+
+    adding a function that deletes a hash table
+
+[33mcommit e42e3a81177f2c05ed557b573812873863faf430[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 08:00:54 2023 -0800
+
+    adding a function that prints a hash table
+
+[33mcommit 69b6700c66eec06bcf796edb2614c4341fbc63f4[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 07:56:32 2023 -0800
+
+    adding a function that retrieves a value associated with a key
+
+[33mcommit 5a88bd41f9352d39f345d46659362f8d5ecf40e2[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 03:02:55 2023 -0800
+
+    adding a function that retrieves a value associated with a key
+
+[33mcommit ba9ec4734788b8f89545e0b2f3cd6c886169d8ef[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:58:16 2023 -0800
+
+    adding a function that adds an element to a hash table
+
+[33mcommit 7da533216acdf39f1b7d9a7fd93f80a4f8fe01b4[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:54:45 2023 -0800
+
+    adding a function that generates a distributed index
+
+[33mcommit f1b999eb5ba438977c2b4e2db9023780c0237da3[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:28:40 2023 -0800
+
+    adding case when key is NULL and size is zero
+
+[33mcommit e44b9f1b471a72d0247c72680e6f65ca1ab2d165[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:23:28 2023 -0800
+
+    adding a hash function that implements the djb1 algorithm
+
+[33mcommit af9760e7475ed0bb4269eecf5cd60d7dbeb564fd[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:18:52 2023 -0800
+
+    adding a function that prints prototypes
+
+[33mcommit 90aaa7e6b9b3fb4ff6eeefd85890b7beae09bf86[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 02:05:32 2023 -0800
+
+    adding a function that prints prototypes
+
+[33mcommit 342992b591f911f5296e8f4e5785ef0a804d93d5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 01:29:21 2023 -0800
+
+    adding a function that creates a hash table
+
+[33mcommit 6eb7ea4b8940bf46387d229e86aed9429e3f0420[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Jan 8 01:22:04 2023 -0800
+
+    README.md file
+
+[33mcommit a878556baf862547c9700e65dde82571705a839a[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Dec 15 13:45:52 2022 -0800
+
+    adding a script that creates a dynamic library
+
+[33mcommit 06bd3933c71860ba601c55adfba12374063ce031[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Dec 15 13:38:30 2022 -0800
+
+    adding a script that creates a dynamic library
+
+[33mcommit 9d65a2c39afa82e6537c052acdc085960fcf3056[m
+Merge: 0b4321f 58472e7
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Dec 15 09:56:32 2022 -0800
+
+    Merge branch 'master' of https://github.com/LeboMeje/alx-low_level_programming
+
+[33mcommit 0b4321f243f3de5c995a173f722218928bce11fb[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Dec 15 09:55:34 2022 -0800
+
+    adding dynamic libraries
+
+[33mcommit 58472e745635a8210701f9f8968d1603f41748a7[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:29:05 2022 +0200
+
+    Update 102-result
+
+[33mcommit f9ee1907fe2bf94261319e9191fdff586b1653b4[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:28:46 2022 +0200
+
+    Update 102-result
+
+[33mcommit 582541b0eb76f3a4dc01f6870f42ee5ad9f6e7fd[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:27:05 2022 +0200
+
+    Update 102-result
+
+[33mcommit 83ed0765400a2fab6b4432b3447f256c2f66b7bc[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:25:30 2022 +0200
+
+    Update 102-result
+
+[33mcommit 0d1c6117222f68f1cf9620d2dfb6800c2cb23780[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:25:09 2022 +0200
+
+    Update 102-result
+
+[33mcommit 108e504fecce87e06f4e8d9a860648b719deeaf9[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:23:20 2022 +0200
+
+    Update 102-result
+
+[33mcommit d0716eeacb7fb5f68a046aa8f7a96fdaf450c06a[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:21:43 2022 +0200
+
+    Update 102-result
+
+[33mcommit 49a9acbac932351605eafdf5fc2f4c587138b3f4[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:18:40 2022 +0200
+
+    Update 102-result
+
+[33mcommit b77d5dcc3dfd08b095857084fe93319d539234ba[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 15:15:43 2022 +0200
+
+    Update 102-result
+
+[33mcommit 45cb20aa99f0ab348a82302c86b563b8ce809b94[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 13:36:36 2022 +0200
+
+    Update README.md
+
+[33mcommit 9b183714745b668c90a2edeec4953ae555f4b4ec[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 13:33:15 2022 +0200
+
+    Update README.md
+
+[33mcommit db885eae54fd623cca9d1b05f308f574c4536b1f[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Tue Dec 13 13:27:49 2022 +0200
+
+    Delete .102-result.swp
+
+[33mcommit 7614158d0a951e805fcc3043db1f4afacaf61dcf[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 15:52:23 2022 -0800
+
+    creating a random library
+
+[33mcommit 83c077cf26f4788cd83cd3a3b9e115ee6d719a6b[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 15:41:56 2022 -0800
+
+    adding a dynamic library
+
+[33mcommit 4a264e7ee37ae554248e161fef5945e3ed148ee6[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 15:30:33 2022 -0800
+
+    Shell script that injects a C program in order to hack a gm executable file
+
+[33mcommit 331e36fb431056456c75af12e0a1c172ca3c4f3b[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 14:54:58 2022 -0800
+
+    Shell script that injects a C program in order to hack gm executable file
+
+[33mcommit fcd0f9d1ab6203474acd33e941d7851ed96c3d7e[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 14:27:29 2022 -0800
+
+     adding a dynamic library that can be called from Python
+
+[33mcommit e1fe969432120491d30def0fa3e2fa42bdca0e46[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 14:19:32 2022 -0800
+
+    adding a script that creates a dynamic library
+
+[33mcommit 238a5cab4c954b3db11cceaadf265aaaf338d98c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Dec 12 12:52:53 2022 -0800
+
+    adding a script that creates a dynamic library
+
+[33mcommit 82391090d39e474db9673965c27404cf63a5dc42[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Dec 8 13:54:49 2022 -0800
+
+    102-result
+
+[33mcommit f4fc86ef9fbce8cb626e261041df36f2a5f2c1c1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 06:04:00 2022 -0700
+
+    1-create_dynamic_lib.sh
+
+[33mcommit 906acf7c36a63750df5056214ca7d979bd776d43[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 06:00:24 2022 -0700
+
+    main.h
+
+[33mcommit 442709594caf13b5c011a061e719d6938002c41f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:54:42 2022 -0700
+
+    README.md
+
+[33mcommit 3302aa58ab6f941e22d0215bcb363a1d4687a4f2[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:43:55 2022 -0700
+
+    103-keygen.c
+
+[33mcommit fbc144b0fe82188410f1b941250f10b1b7f9a9bb[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:40:04 2022 -0700
+
+    102-result
+
+[33mcommit f1e0b49c0106a2ac4f507e44cb3eb730799fe650[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:36:04 2022 -0700
+
+    100-password
+
+[33mcommit 81a6419e00d0dd3e70355f5f33a17cc196f4e173[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:33:14 2022 -0700
+
+    3-add_dnodeint_end.c
+
+[33mcommit c93291489a31f919cf321cfb15a4b8679d7cb342[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:30:10 2022 -0700
+
+    8-delete_dnodeint.c
+
+[33mcommit 857291d9838ca4710db09642861e70c079dcd75d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:25:26 2022 -0700
+
+    7-insert_dnodeint.c
+
+[33mcommit 70519374b650942d3b8881f6bb065ab489160232[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:22:07 2022 -0700
+
+    6-sum_dlistint.c
+
+[33mcommit 06a4ab52d7383c874124260946380caf080fa03f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:18:18 2022 -0700
+
+    5-get_dnodeint.c
+
+[33mcommit 1eaa9a7f5789dbfbfe13df41f3bfc01d0d1f7f6c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:11:52 2022 -0700
+
+    4-free_dlistint.c
+
+[33mcommit 3dc030971b20f2543970319b2a74d3b2dcf1219c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 05:03:40 2022 -0700
+
+    2-add_dnodeint.c
+
+[33mcommit 1cda0f48cfcc50806dcba6e11bd5ea66d17895e0[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:57:54 2022 -0700
+
+    2-add_dnodeint.c
+
+[33mcommit 042e208e3e3579c0f108f3e84254bbba47c61731[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:48:00 2022 -0700
+
+    1-dlistint_len.c
+
+[33mcommit 078b90b3364badfcc060a2d83d1e1b4704a85b86[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:43:07 2022 -0700
+
+    0-print_dlistint.c
+
+[33mcommit bab28a678cb62dac0a751e2db06eb3c2a3d2f431[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:37:01 2022 -0700
+
+    lists.h
+
+[33mcommit 58aca8e8c39a8085ce761d7525fb93e6c479b6ef[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 13:30:42 2022 +0200
+
+    Update README.md
+
+[33mcommit 184d80870b20014fa9d0667f114bb5b9c4393ee5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:28:56 2022 -0700
+
+    README.md
+
+[33mcommit a522bb96a7f9e032446a27f0250dcb7503424908[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 31 04:01:18 2022 -0700
+
+    101-password
+
+[33mcommit cf0d222815215d2a1ab2bf4c21a6f77df6d40f44[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Oct 27 05:19:29 2022 -0700
+
+    101-password
+
+[33mcommit f0d56b1d0614ab7de86a238c59dd0f70336b35a1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 14:15:09 2022 -0700
+
+    README.md
+
+[33mcommit 411a56485aa6d3deb00d2e910a9cb8e92532d4a8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 14:09:47 2022 -0700
+
+    100-elf_header.c
+
+[33mcommit a9700a35a5ffb8e4f778c02b165a14c5329e6c84[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 14:04:52 2022 -0700
+
+    3-cp.c
+
+[33mcommit cf6f55a4c968a07b9b8eea9f1854d5488a9ddb04[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 14:01:55 2022 -0700
+
+    2-append_text_to_file.c
+
+[33mcommit 58ff5ba9433b55fd9416178562cefedb281243ae[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 13:57:16 2022 -0700
+
+    1-create_file.c
+
+[33mcommit 546f5efe1761dc86956dc1dd88b3c1569e630fae[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 13:49:57 2022 -0700
+
+    0-read_textfile.c
+
+[33mcommit fdc947a65bd263f42f54a57e7c021c1f13df7359[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 13:45:57 2022 -0700
+
+    main.h
+
+[33mcommit 3abe8fc5b3194fd27c3a18ccad40ee44c35edd73[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 13:43:40 2022 -0700
+
+    README.md
+
+[33mcommit 1039ea9fa49ac3fc1e058cd474e47b541820b36f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:36:12 2022 -0700
+
+    delete file
+
+[33mcommit 1caf0efe45d857da6002944f762c7adee8e703f6[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:34:04 2022 -0700
+
+    101-password
+
+[33mcommit c7726f7003e65f9434c1d25c094673edb39efa69[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:25:24 2022 -0700
+
+    100-get_endianness.c
+
+[33mcommit ed9d45e4e95e06c4fd76f65f4ebbb3d4e9b85a64[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:22:12 2022 -0700
+
+    5-flip_bits.c
+
+[33mcommit cfffca93f0362b74a6e18058ec92fdcc398d2b95[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:15:54 2022 -0700
+
+    4-clear_bit.c
+
+[33mcommit 427fb10cf367e8bfc8b69279a2dfcd1eb8936fc1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:10:37 2022 -0700
+
+    3-set_bit.c
+
+[33mcommit a4b78be7e90e0d7f7f5a5a35eb21601170de3e8b[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:06:47 2022 -0700
+
+    2-get_bit.c
+
+[33mcommit fb22a20dc87f9da7f28c81f206e6d7204e8bec0f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:02:38 2022 -0700
+
+    1-print_binary.c
+
+[33mcommit f9747db5139dc492c711e5c5f755b22c018ba076[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 10:54:01 2022 -0700
+
+    0-binary_to_uint.c
+
+[33mcommit 61b3f28e628b84dca93a563b9a457403d3a6f21a[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 10:44:18 2022 -0700
+
+    main.h
+
+[33mcommit 39af807a163984d9ec287fb58a53200a7119ecb5[m
+Merge: 048c310 9d89e59
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 10:35:04 2022 -0700
+
+    Merge branch 'master' of https://github.com/LeboMeje/alx-low_level_programming
+
+[33mcommit 048c310b40691ed1f520dc2d641dcb155ee2526d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 10:34:35 2022 -0700
+
+    README.md
+
+[33mcommit 9d89e59b6f8a47fcef83616d8ead357eb31994f8[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 11:43:45 2022 +0200
+
+    Update README.md
+
+[33mcommit 9f769b5e332260cfec3f14beed0376eef1763d36[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 26 02:41:05 2022 -0700
+
+    README.md
+
+[33mcommit 9cc3818c9ac48feafa986176d692d50d8b7f5096[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 10:01:26 2022 -0700
+
+    101-print_listint_safe.c
+
+[33mcommit ef9cbdd27d6539b6b2385e83d0c65ab91dc543b3[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 09:56:05 2022 -0700
+
+    9-insert_nodeint.c
+
+[33mcommit 77cb7f9de8918f63e1d10f008de57bfdbe920460[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 10:09:34 2022 +0200
+
+    Update README.md
+
+[33mcommit ed80dba8a2bc3ba272ffcc0944d864f6fefa631e[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 01:01:32 2022 -0700
+
+    103-find_loop.c
+
+[33mcommit a7c32e7efd0b8b658a109478efcd29c243652e07[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:56:07 2022 -0700
+
+    102-free_listint_safe.c
+
+[33mcommit cfcc251a0477ac36a67b6a0b4517da34a014b6d5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:46:43 2022 -0700
+
+    101-print_listint_safe.c
+
+[33mcommit ec427ad25e33408e477f7d502a0c2a85125bd1d3[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:37:44 2022 -0700
+
+    100-reverse_listint.c
+
+[33mcommit a81a3f52f241a895d18486f8180742b28b846ff2[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:32:46 2022 -0700
+
+    10-delete_nodeint.c
+
+[33mcommit 5d139d43782d0e59be7b5380a2cefb4eb3d8e5ae[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:25:23 2022 -0700
+
+    9-insert_nodeint.c
+
+[33mcommit a48771e49f913eedc09314e506eed20d48499990[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:18:43 2022 -0700
+
+    8-sum_listint.c
+
+[33mcommit 64860b63a35e661bb2093ad66d22ee052d79a655[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:13:06 2022 -0700
+
+    7-get_nodeint.c
+
+[33mcommit 2cf7cd8d034ae9fef339b524eded9f43a52be2d8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 24 00:09:07 2022 -0700
+
+    6-pop_listint.c
+
+[33mcommit 753c1ab42227c032790e5b6031da5c2804b4caa8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:57:48 2022 -0700
+
+    5-free_listint2.c
+
+[33mcommit 6b764f0dffbd80b3112ac2e9b21953595b1a0c68[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:50:52 2022 -0700
+
+    4-free_listint.c
+
+[33mcommit b72b4a054fc83eab74d843b91749e17242a23a6d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:45:52 2022 -0700
+
+    3-add_nodeint_end.c
+
+[33mcommit 55ae63980e6b56aee23dd9486d978f21eee74850[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:38:15 2022 -0700
+
+    2-add_nodeint.c
+
+[33mcommit f0f72d67a0cc6a448e7cdcfa871a04ea5aca8800[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:33:09 2022 -0700
+
+    1-listint_len.c
+
+[33mcommit d5ff679fa430fd1ee52fe18587f14c3c5f97294e[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sun Oct 23 23:26:52 2022 -0700
+
+    0-print_listint.c
+
+[33mcommit 0b2cb2d7ffc9d4fae2ed143761d579466c6dcef8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 05:41:17 2022 -0700
+
+    101-hello_holberton.asm
+
+[33mcommit d070cab1bd16dfd00eb0b9dd5ff55939a2e86f58[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 05:37:08 2022 -0700
+
+    100-first.c
+
+[33mcommit fa1f1d16d03114119904df8942db5e3e5db5e2a0[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 05:30:08 2022 -0700
+
+    4-free_list.c
+
+[33mcommit 8cecf4110fee6807b3411870620e398c58146b9b[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 05:24:57 2022 -0700
+
+    4-free_list.c
+
+[33mcommit 03afe0168097f9393013f6f8476d968e92469c02[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 05:00:29 2022 -0700
+
+    4-free_list.c
+
+[33mcommit 8fc98e8533386354012489896826aa7215bcc495[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:55:03 2022 -0700
+
+    3-add_node_end.c
+
+[33mcommit 87490f924b5e8814666964967e280548945e81f8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:51:51 2022 -0700
+
+    3-add_node_end.c
+
+[33mcommit 542de2e485bf1d69a4689f76e00fa869e3d5801c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:46:22 2022 -0700
+
+    2-add_node.c
+
+[33mcommit 8967801c3f4737e0a407df0aa025f4b9a049fa3a[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:42:35 2022 -0700
+
+    2-add_node.c
+
+[33mcommit b975ef439279f2cc92431b3a280d156db3a4e403[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:39:54 2022 -0700
+
+    2-add_node.c
+
+[33mcommit 03aa466f3ce71309d973379486db069179b0aaeb[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:32:25 2022 -0700
+
+    1-list_len.c
+
+[33mcommit 5bc77b8b43aaf3cf955b7badf3b7c1e00119c4ff[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Sat Oct 22 04:27:58 2022 -0700
+
+    0-print_list.c
+
+[33mcommit 3cbfe7e81afa55628901469a454e783cc132200b[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Oct 13 17:26:12 2022 -0700
+
+    3-print_all.c
+
+[33mcommit a0121908df2499ba0fd469155bb6a89279b64873[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Oct 13 17:19:09 2022 -0700
+
+    2-print_strings.c
+
+[33mcommit 2a28157ad4f823de85023526441af4904a315817[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Oct 13 17:12:33 2022 -0700
+
+    1-print_numbers.c
+
+[33mcommit 747a4b7e02da67be86b43e79435591cf7ae02bc1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Thu Oct 13 17:08:19 2022 -0700
+
+    0-sum_them_all.c
+
+[33mcommit 74b8d85ec64430f848f1b22b38688ae1ec36cb47[m
+Merge: d94b5a5 56d5669
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:54:39 2022 -0700
+
+    Merge branch 'master' of https://github.com/LeboMeje/alx-low_level_programming
+
+[33mcommit d94b5a5fa2be3fd8b6f325e1b38e4bb4b46c65f5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:54:16 2022 -0700
+
+    100-main_opcodes.c
+
+[33mcommit 56d5669f847e47770806468d95f588306524ff74[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 23:43:43 2022 +0200
+
+    Delete .101-mul.c.swp
+
+[33mcommit 201c2405b587b28647d250617703724e12fa116e[m
+Author: Lebo Meje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 23:43:23 2022 +0200
+
+    Delete .101-mul.c.swo
+
+[33mcommit 041e588ea875983d32d493ec764c504600ac9862[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:40:51 2022 -0700
+
+    3-main.c
+
+[33mcommit 2bbdfcf3f53fde334bb96739b0ee107b0bf6adf4[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:27:55 2022 -0700
+
+    3-calc.h
+
+[33mcommit e0acfb2733007d1b4fe832e2d53d8f7b53ce6e1f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:21:05 2022 -0700
+
+    3-get_op_func.c
+
+[33mcommit 00dc79b8908bf06d879c1ca2047e325e705b8a80[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:13:32 2022 -0700
+
+    3-op_functions.c
+
+[33mcommit 65329636190500c6346d914bfba48bcd82529e92[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 14:04:56 2022 -0700
+
+    3-main.c
+
+[33mcommit 00c61c3da40be18f5d4bdb3c5ef04bc6c8c08a6f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 13:45:55 2022 -0700
+
+    2-int_index.c
+
+[33mcommit 0e060991a6b5ef1c8117775bc5ae47658a9f2f55[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 13:32:01 2022 -0700
+
+    1-array_iterator.c
+
+[33mcommit dd6e9b84ffc0778d3e06265a824c7c575d7e4899[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Oct 12 13:24:22 2022 -0700
+
+    0-print_name.c
+
+[33mcommit fc10a01d483ad91f7d05905c5d1757a0b6166fc5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 13:42:06 2022 -0700
+
+    101-mul.c
+
+[33mcommit 224b6e409334d98dc7ac62d8ac8f4578d37c6af9[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 12:44:51 2022 -0700
+
+    2-print_dog.c
+
+[33mcommit e82ff32a6d92c8390f91f263602f32ed8038caf3[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 12:37:21 2022 -0700
+
+    5-free_dog.c
+
+[33mcommit c243ae047d453c65c9d34b02c77bb1e10f7dbd9e[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 12:29:19 2022 -0700
+
+    4-new_dog.c
+
+[33mcommit ed9f531e6b186e231eb85a330c1f72d876cf9f2d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 12:25:16 2022 -0700
+
+    4-new_dog.c
+
+[33mcommit 65b18ae7dc012b963edd6f24406500bae0d96130[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 11:53:09 2022 -0700
+
+    2-print_dog.c
+
+[33mcommit 623243a5e4f810feab1c7443e5ec97415f428c2d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 11:34:08 2022 -0700
+
+    2-print_dog.c
+
+[33mcommit 856c8118eb14bc9d3629eb5d6cf2fc1424ba9ad1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 11:29:37 2022 -0700
+
+    2-print_dog.c
+
+[33mcommit 0f188a5e2b387b0cd638faf9cd08f7d1130a2993[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 11:12:17 2022 -0700
+
+    1-init_dog.c
+
+[33mcommit 69e50e0eb809bc5e0e29b23005b2d63b16219a8f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 11:04:40 2022 -0700
+
+    dog.h
+
+[33mcommit a36f226388fce3078b3349038d414b996c531042[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Tue Oct 11 10:37:50 2022 -0700
+
+    0. Object-like Macro, 1. Pi, 2. File name, 3. Function-like macro, 4. SUM
+
+[33mcommit ae7b1238ca544730f77d1db4e5a089edbcb59215[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 08:01:53 2022 -0700
+
+    101-mul.c
+
+[33mcommit 67e24ae9ede44d305f43c80a94b3e139da24a3c4[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 06:55:27 2022 -0700
+
+    101-mul.c
+
+[33mcommit 453afb23b673a074ca229980952dd96484abdaaa[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 06:04:14 2022 -0700
+
+    101-mul.c
+
+[33mcommit d1e08d68d1ae329721b7136d5d12caa94ddfebc8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 04:55:44 2022 -0700
+
+    101-mul.c
+
+[33mcommit 12232bed08d162af57c480afdeec96be4f261041[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 04:41:45 2022 -0700
+
+    101-mul.c
+
+[33mcommit 6dc4525268eb7a9604b7007eb6aad08e92cbb888[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 04:35:02 2022 -0700
+
+    101-mul.c
+
+[33mcommit baa40d303ad7af8e193ac21c0ec0e682dd40fee9[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 03:41:46 2022 -0700
+
+    100-realloc.c
+
+[33mcommit 686b7e9e02c087b2d9e59572e75d390578416be8[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 03:20:53 2022 -0700
+
+    3-array_range.c
+
+[33mcommit 3b1fc4e494abb583b54730500c3ad0f1a3b7c1c4[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 02:58:55 2022 -0700
+
+    2-calloc.c
+
+[33mcommit 36013afd7219f980e284f3237b2f84a9892e150f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 02:41:51 2022 -0700
+
+    1-string_nconcat.c
+
+[33mcommit e80a0f2d01302c1387b6f0daed8ba5bd5860cd3f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 02:16:35 2022 -0700
+
+    0-malloc_checked.c
+
+[33mcommit 38a13e6cb4a0b408b924975280dc1069ad70fe6f[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Oct 7 02:11:38 2022 -0700
+
+    0-malloc_checked.c
+
+[33mcommit a42d30474b08524bc14d6d542989cfaf5911f196[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 16:05:50 2022 -0700
+
+    101-strtow.c
+
+[33mcommit 750199a578771baaf1b88c9d93222929398f82b7[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 15:35:08 2022 -0700
+
+    100-argstostr.c
+
+[33mcommit fdb7698834627ed4b5564f46eec501405e1c6c88[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 15:31:26 2022 -0700
+
+    100-argstostr.c
+
+[33mcommit e5248941301da753bceeaaf7c926c29894d824cd[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 15:02:03 2022 -0700
+
+    4-free_grid.c
+
+[33mcommit 6c346fe34ba104b0cf9d11b480a5f4fc0a3f7e50[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 14:44:37 2022 -0700
+
+    3-alloc_grid.c
+
+[33mcommit ff0b2e9bca63303c2b87a9bc64e3dfbb1c2450d0[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 14:40:45 2022 -0700
+
+    3-alloc_grid.c
+
+[33mcommit a576c78d9a79e23fe097612768660fc115f4e058[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 14:12:26 2022 -0700
+
+    2-str_concat.c
+
+[33mcommit 42e82f742a6e4050aeaf3db0022257de679a83e0[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 13:55:14 2022 -0700
+
+    1-strdup.c
+
+[33mcommit eaad212cd9db7f50038f48de0a712347e2d094b7[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 13:39:32 2022 -0700
+
+    0-create_array.c
+
+[33mcommit dcbe8d9bb37a8cafc80dd52f737de2af7b2b9ada[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Mon Oct 3 13:35:55 2022 -0700
+
+    0-create_array.c
+
+[33mcommit 794f19994fa4fcd7e9148b8ce552e7e950a14845[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 13:54:53 2022 -0700
+
+    create_static_lib.sh
+
+[33mcommit 8dfde765b215fed6f7a07b5fd3ae714dea97b867[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 13:47:12 2022 -0700
+
+    libmy.a, main.h
+
+[33mcommit 3071a448c10ae4327fffce52a543fdfbca36a3ec[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 09:00:15 2022 -0700
+
+    _putchar
+
+[33mcommit 943e0109f35f2efce8dfea90b5aa1548fb84d4f1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 06:47:12 2022 -0700
+
+    libmy.a, main.h
+
+[33mcommit ae86d69c441c84e0786ea2d2d0724536ad6afa5d[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 06:31:48 2022 -0700
+
+    libmy.a
+
+[33mcommit 9e26b528c04c3850f463cbd0ef72fb5b5c9f9d59[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 06:25:06 2022 -0700
+
+    create_static_lib.sh
+
+[33mcommit 1b3e1fa9874463eae5ce816d94470ac4181d8992[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 06:01:57 2022 -0700
+
+    100-change.c
+
+[33mcommit 6c08f1ac6ffc6538d781d0fb4956962b9ed03078[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:58:44 2022 -0700
+
+    100-change.c
+
+[33mcommit 71bf8430db299c4786a7161974c0e0e3fab29c04[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:42:40 2022 -0700
+
+    4-add.c
+
+[33mcommit 9f378912cc40520f3599405e28e7fd0221689bea[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:19:44 2022 -0700
+
+    3-mul.c
+
+[33mcommit dacca23769784b01d4f48810c534c65b781ae914[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:14:12 2022 -0700
+
+    2-args.c
+
+[33mcommit 756e97d3ec3d4e87bdef3e726ae39af1a58919fb[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:10:11 2022 -0700
+
+    1-args.c
+
+[33mcommit dbab8842dc9cc208c300863b4d9ab13c41c45262[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Fri Sep 30 05:04:51 2022 -0700
+
+    0-whatsmyname.c
+
+[33mcommit ad08a6b55378be72c363b56c26ee9a9ba7cc8b52[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:48:11 2022 -0700
+
+    101-print_number.c
+
+[33mcommit 60480bc89208d3bff848e6ac291d38c7d6159cb0[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:42:00 2022 -0700
+
+    101-print_number.c
+
+[33mcommit c2caded21c38825319a53e09d37589146b94c108[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:37:11 2022 -0700
+
+    101-print_number.c
+
+[33mcommit cecea695841862c92518c6baf715cd405f0509c1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:25:17 2022 -0700
+
+    101-print_number.c
+
+[33mcommit cb0b4e1755c486fb8f02e67741b6acfd37553201[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:21:47 2022 -0700
+
+    101-print_number.c
+
+[33mcommit 5f5d0efd6411e8572d83041356d659270b432c28[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:16:25 2022 -0700
+
+    101-print_number.c
+
+[33mcommit 30a2db0882ee243ec88144966e1078ccfbe63312[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 10:07:20 2022 -0700
+
+    101-print_number.c
+
+[33mcommit b5d10f2b2405b1704bdbfbab3d6f5a85701a827c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 09:55:13 2022 -0700
+
+    101-print_number.c
+
+[33mcommit e7dc6bd99a5e968c51947d93d716644cfb69bdb2[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 09:51:10 2022 -0700
+
+    102-magic.c
+
+[33mcommit d962dfb211c906cb550534ba6fa7384051c6b01a[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 09:46:49 2022 -0700
+
+    102-magic.c
+
+[33mcommit 30c31d457b148de575993b5a2925f660441f92d2[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 08:46:04 2022 -0700
+
+    101-wildcmp.c
+
+[33mcommit 4f0f8e99ab41623b701205566b1ed630844cc0f5[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 08:30:36 2022 -0700
+
+    100-is_palindrome.c
+
+[33mcommit e33ef981dd997622d296e48cb7d599d385d87116[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 08:14:06 2022 -0700
+
+    6-is_prime_number.c
+
+[33mcommit 4f03e6b122b42b1c164feac26f9da07635e39dad[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 08:09:53 2022 -0700
+
+    6-is_prime_number.c
+
+[33mcommit 1f6be303f9f07f57b44b77dd9157f8a1c08e5962[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 06:27:57 2022 -0700
+
+    5-sqrt_recursion.c
+
+[33mcommit 17d9588854f53f96e409b46d2ac977ff200f330c[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 06:16:38 2022 -0700
+
+    4-pow_recursion.c
+
+[33mcommit 4d1e6be8044867b22b08bf2278b5ac57729a9e19[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 06:09:56 2022 -0700
+
+    3-factorial.c
+
+[33mcommit 937d9f4adb0fa180b1a4ac473a08d9c859931c93[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 06:01:29 2022 -0700
+
+    fixing 2-strlen_recursion.c file, code works
+
+[33mcommit 2cdf4520d20bd3a01b710fa3eda2017849b704b1[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 05:48:42 2022 -0700
+
+    2-strlen_recursion.c
+
+[33mcommit b6a8e505ed3fa27f873f12ff065fb2d74a1df248[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 05:30:24 2022 -0700
+
+    2-strlen_recursion.c
+
+[33mcommit 7228d71df436d2fb14d02f4a6c6cc343cde688d6[m
+Author: LeboMeje <lebomhopewell@gmail.com>
+Date:   Wed Sep 28 05:26:47 2022 -0700
+
+    2-strlen_recursion.c
